@@ -1,0 +1,1 @@
+g++ bot.cpp wBot.cpp -o botEjemplo.exe
